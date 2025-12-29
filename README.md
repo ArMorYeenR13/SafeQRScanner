@@ -1,15 +1,20 @@
-# flutter_app_test
+# Safe QR Scanner
+A flutter based mobile application which has a malicious link detection feature using current existing blacklist APIs and our own machine learning model.
+
+<p align="center">
+  <img src="/assets/images/joined1.png" width="250"/>
+  <img src="/assets/images/joined2.png" width="250"/>
+</p>
 
 
-## Getting Started
+![test](/assets/images/joined1.png)
+![test](/assets/images/joined2.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### AI model
+![test](/assets/images/oomg.drawio.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![test](/assets/images/baseConceptDiagram.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
